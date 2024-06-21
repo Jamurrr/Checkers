@@ -1,0 +1,17 @@
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\Checkers.csproj.AssemblyReference.cache
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\Checkers.Form1.resources
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\Checkers.csproj.GenerateResource.cache
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\Checkers.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\Checkers.AssemblyInfoInputs.cache
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\Checkers.AssemblyInfo.cs
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\Checkers.csproj.CoreCompileInputs.cache
+E:\c#\Checkers\Checkers\bin\Debug\net6.0-windows\Checkers.exe
+E:\c#\Checkers\Checkers\bin\Debug\net6.0-windows\Checkers.deps.json
+E:\c#\Checkers\Checkers\bin\Debug\net6.0-windows\Checkers.runtimeconfig.json
+E:\c#\Checkers\Checkers\bin\Debug\net6.0-windows\Checkers.dll
+E:\c#\Checkers\Checkers\bin\Debug\net6.0-windows\Checkers.pdb
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\Checkers.dll
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\refint\Checkers.dll
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\Checkers.pdb
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\Checkers.genruntimeconfig.cache
+E:\c#\Checkers\Checkers\obj\Debug\net6.0-windows\ref\Checkers.dll
